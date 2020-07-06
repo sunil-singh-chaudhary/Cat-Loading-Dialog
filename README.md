@@ -4,7 +4,12 @@ add the below line build.gradle
 
 implementation 'com.github.sunil-singh-chaudhary:Cat-Loading-Dialog:924bc4013b'
     
-    
+    and 
+ repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
     
     
     
