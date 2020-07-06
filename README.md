@@ -33,3 +33,7 @@ implementation 'com.github.sunil-singh-chaudhary:Cat-Loading-Dialog:924bc4013b'
             }
         } );
 
+
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/10194731/86588881-30a9c780-bfaa-11ea-9d47-560972e13580.gif)
+
