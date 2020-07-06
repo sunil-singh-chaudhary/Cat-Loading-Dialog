@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color eyelid
+drawable background
+drawable cat
+drawable eyes
+drawable mouse
+id cat
+id eye_left
+id eye_right
+id eyelid_left
+id eyelid_right
+id graduallyTextView
+id mouse
+layout catloading_main
+string app_name
+style AppTheme
+style cart_dialog
