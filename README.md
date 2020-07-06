@@ -1,8 +1,3 @@
-# Cat-Loading-Dialog
-Smart Showing Loading Dialog
-
-
-
   show_btn.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -10,8 +5,6 @@ Smart Showing Loading Dialog
                 cat_dialog.show( getSupportFragmentManager(), "1" );
             }
         } );
-        
-        
         dismiss_btn.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
