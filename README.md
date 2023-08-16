@@ -2,10 +2,9 @@ how to Implement
 
 add the below line build.gradle
 
-implementation 'com.github.sunil-singh-chaudhary:Cat-Loading-Dialog:924bc4013b'
-    
-  and 
-   
+
+   implementation 'com.github.sunil-singh-chaudhary:Cat-Loading-Dialog:924bc4013b'
+
       repositories {
           google()
           jcenter()
